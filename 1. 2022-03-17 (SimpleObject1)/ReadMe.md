@@ -14,7 +14,7 @@ Thank you !
   
 
 ## 📷 Screenshot  
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/7.%202022-03-12~2022-03-17%20(Texture_WoodCrate)/pictures/WoodCrate.png)    
+![](https://github.com/Mawi1e/3dsMaxStudy/blob/main/1.%202022-03-17%20(SimpleObject1)/pictures/pict001.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
